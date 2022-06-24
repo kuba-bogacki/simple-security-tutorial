@@ -1,0 +1,21 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "application.jwt.secretKey",
+      "type": "java.lang.String",
+      "description": "verystrongsecureverystrongsecureverystrongsecureverystrongsecureverystrongsecure"
+    },
+    {
+      "name": "application.jwt.tokenExpirationAfterDays",
+      "type": "java.lang.String",
+      "description": "14"
+    },
+    {
+      "name": "application.jwt.tokenPrefix",
+      "type": "java.lang.String",
+      "description": "Bearer "
+    }
+  ],
+  "hints": []
+}
